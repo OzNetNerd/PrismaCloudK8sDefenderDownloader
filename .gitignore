@@ -1,0 +1,3 @@
+.idea
+prisma_cloud_daemonset.yaml
+prisma_cloud_helm_chart
